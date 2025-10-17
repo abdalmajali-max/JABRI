@@ -1,0 +1,18 @@
+
+
+/* v3.7.0 UI polish */
+.jvp-wrap{max-width:880px;margin:20px auto;padding:0 12px}
+.jvp-card{background:#1f2937;border:1px solid #374151;border-radius:14px;padding:18px 18px 22px;box-shadow:0 6px 18px rgba(0,0,0,.18)}
+.jvp-title{margin:0 0 14px;font-size:20px;color:#fff}
+.jvp-row{display:flex;gap:12px;flex-wrap:wrap}
+.jvp-field{display:flex;flex-direction:column;flex:1;min-width:220px}
+.jvp-field>label{color:#d1d5db;margin-bottom:6px;font-size:13px}
+.jvp-field>input[type="text"],
+.jvp-field>input[type="email"],
+.jvp-field>input[type="password"],
+.jvp-field>input[type="file"]{background:#111827;border:1px solid #374151;border-radius:10px;color:#fff;padding:10px 12px}
+.jvp-btn{background:#b91c1c;border:none;border-radius:10px;padding:10px 16px;color:#fff;cursor:pointer}
+.jvp-btn:hover{filter:brightness(1.05)}
+.jvp-info{background:#0b3d2e;border:1px solid #1f6f57;color:#d7fff1;padding:10px 12px;border-radius:10px;margin:10px 0;display:block}
+.jvp-error{background:#3d0b0b;border:1px solid #6f1f1f;color:#ffd7d7;padding:10px 12px;border-radius:10px;margin:10px 0}
+.jvp-success{background:#113d0b;border:1px solid #2b6f1f;color:#d7ffcf;padding:10px 12px;border-radius:10px;margin:10px 0
